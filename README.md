@@ -9,8 +9,8 @@ run.ipynb: Have implemented the following things
     2. pISTA: with random mask and gaussian mask
     3. pFISTA: with random mask and gaussian mask
 
-[FOLDER]
-data: contain the example data file to test the code
+[Note]
+For test data please download it from the given drive link: https://drive.google.com/drive/folders/1xgxR5WFj-bzVzoY2kXkfKkSjJRVacB0E?usp=sharing
 
 For any queries let us know: {arahma30, dshama1, rkumar44, yliu436}@jhu.edu
 
